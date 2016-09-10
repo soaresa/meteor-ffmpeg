@@ -17,5 +17,5 @@ Package.onTest(function(api) {
 });
 
 Npm.depends({
-	"fluent-ffmpeg": "2.0.1"
+	"fluent-ffmpeg": "2.1"
 });
